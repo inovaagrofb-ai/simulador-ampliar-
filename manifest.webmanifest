@@ -1,1 +1,26 @@
-{"name": "Ampliar | Simulador Comercial", "short_name": "Ampliar", "description": "Simulador comercial de herbicidas para pastagens", "start_url": "./index.html", "scope": "./", "display": "standalone", "background_color": "#ffffff", "theme_color": "#075d38", "icons": [{"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"}, {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}
+
+{
+  "name": "Ampliar | Simulador Comercial",
+  "short_name": "Ampliar",
+  "description": "Simulador comercial de herbicidas para pastagens",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#075d38",
+  "icons": [
+    {
+      "src": "./ícone-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./ícone-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
+  
